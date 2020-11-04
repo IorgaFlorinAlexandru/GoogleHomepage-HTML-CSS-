@@ -1,0 +1,56 @@
+header{
+    position: sticky;
+    top: 0;
+    width: 100%;
+    height: auto;
+    margin-bottom: 200px;
+    text-align: right;
+}
+
+a{
+    margin:5px;
+}
+
+.Main_sec{
+    text-align: center;
+    margin-top: 200px;
+}
+
+.Logo{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.Textfield{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 30px;
+}
+
+.Buttons{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+footer{
+    position: absolute;
+    left:0;
+    bottom: 0;
+    width: 100%;
+    background-color: lightgray;
+}
+
+.Footer_a{
+    border: 1px solid gray;
+}
+
+#Country{
+    margin-left: 5px;
+}
+
+#Right{
+    float: right;
+}
+
+#Left{
+    float: left;
+}
